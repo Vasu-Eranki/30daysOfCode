@@ -1,5 +1,7 @@
 #!/bin/python3
 # Complete the factorial function below.
+import os  
+
 def factorial(n):
     if(n==1):
         return 1
